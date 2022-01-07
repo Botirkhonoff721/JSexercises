@@ -1,0 +1,2 @@
+# JSexercises
+Solutions some problems
